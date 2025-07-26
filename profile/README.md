@@ -2,11 +2,9 @@
   <img src="./logo.svg" alt="WebBox Logo" height="80">
 </p>
 
-<h1 align="center">
+<h1 align="center" style="border-bottom:none;">
   <strong>WebBox</strong> <span style="font-weight:300;">Projects</span>
 </h1>
-
-<br><br>
 
 ---
 
