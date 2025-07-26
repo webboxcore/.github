@@ -24,6 +24,8 @@ A suite of tools and components that power the WebBox ecosystem.
 
 <!-- ===== FOOTER ===== -->
 
+<h1 align="center" aria-hidden="true" role="presentation">&nbsp;</h1>
+
 <p align="center">
     <small>
         Developed in Cornwall<br>
