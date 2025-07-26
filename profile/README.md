@@ -27,6 +27,6 @@ A suite of tools and components that power the WebBox ecosystem.
 <p align="center">
     <small>
         Developed in Cornwall<br>
-        &copy; 2025 <a href="https://opticalraze.com" target="_blank" rel="noopener noreferrer">Optical Raze Inc.</a>
+        &copy; Copyright 2025, Optical Raze Inc.
     </small>
 </p>
