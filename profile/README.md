@@ -5,11 +5,27 @@
 </p>
 
 <h1 align="center">
-    <strong>WebBox</strong> <span style="font-weight:300;">Projects</span>
+    <strong>WebBox</strong> <span style="font-weight:300;">System</span>
     <br><br>
 </h1>
 
 <!-- ===== MAIN CONTENT ===== -->
+
+## What is WebBox?
+
+WebBox is a Software Platform design to facilitate development of computer applications by providing developers with one way to build cross-platform web-based native-like software that automatically supports Windows, Mac and Linux systems that have the WebBox Runtime installed.
+
+The WebBox System is composed of multiple parts:
+
+- **WebBox Platform**: a Laravel web app that serves as the main centralized backend used by the entire system. It manages and enables features such as WebBox Accounts, WebBox Store, WebBox Wallet and more. It also serves the main WebBox Website hosted at webboxcore.com
+
+- **WebBox Runtime**: the main installable part of the system that allows computers to run WebBox Apps. Built using Rust, it is a workspace comprised of many modules that all serve a specific purpose and work together to allow everything to work.
+
+- **WebBox Core**: a WebBox App that provides users with a GUI application to manage WebBox on their system. Includes the WebBox Store which allows users to download, buy and subscribe to access of WebBox Apps built by developers.
+
+- **WebBox Installer**: an installer wizard that makes it easy for users to install the WebBox Runtime and WebBox Core app on their computer.
+
+and more
 
 ## 🧱 WebBox Projects
 
